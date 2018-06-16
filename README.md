@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 15, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Lauren Grassano)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment allowed students to create a calculator that generates and accumulates expenses.
+Ths calculator then takes these expenses and converts them into percent values.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://github.com/lg1029/lesson4_javascript1.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1.(Javascript is the most popular scripting language that is used in millions of web pages all over to do a number of things like improve design/appearance, validate forms, detect browsers and create cookies. It works in all major browsers on the internet. Almost anyone can use Javascript without getting a license. )
+2.(Javascript is NOT to be confused with Java. The difference is that they are two completely different languages, in design and concept. Java is a more complex language where programs are compiled and can be run as stand alone apps. Java is a strongly-typed language while Javascript is a loosely-typed language.)
+3.(Basic syntax rules for Javascript are as follows: it is case-sensitive, it ignores whitespace within statements and each statement ends with a semicolon.)
 
 
